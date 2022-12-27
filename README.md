@@ -15,3 +15,4 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Final Product
+<img width="1411" alt="Screen Shot 2022-12-26 at 10 55 37 PM" src="https://user-images.githubusercontent.com/83384002/209613396-24a55198-9c7f-4c37-a83a-4ca2a397320d.png">
